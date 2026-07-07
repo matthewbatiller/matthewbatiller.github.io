@@ -3,5 +3,5 @@
 
 
 Contractor Links
-[link text with title] (https://bandwidthig.novaraflex.com/forms/responses/new/473563/ "KPA")
+[link text] (https://bandwidthig.novaraflex.com/forms/responses/new/473563/)
                                                                                   
