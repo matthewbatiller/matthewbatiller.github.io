@@ -6,7 +6,8 @@
 
 (https://bandwidthig.novaraflex.com/forms/responses/new)
 
-(https://hzd.io/R/RF/473563)                                                                               
+[display QC check](https://hzd.io/R/RF/473563) 
+
 
 # A first-level heading
 ## A second-level heading
