@@ -4,9 +4,9 @@
 
 #  Contractor Links
 
-(https://bandwidthig.novaraflex.com/forms/responses/new)
+[kpa](https://bandwidthig.novaraflex.com/forms/responses/new)
 
-[display QC check](https://hzd.io/R/RF/473563) 
+[QC check](https://hzd.io/R/RF/473563) 
 
 
 # A first-level heading
